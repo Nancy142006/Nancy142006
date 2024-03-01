@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nancy142006
+- 👋 Hi, I’m Nancy
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:- nancy14kapoor2006@gmail.com
 
