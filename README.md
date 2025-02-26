@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nancy
-- 🌱 I’m currently learning Python
-- 📫 How to reach me:- nancy14kapoor2006@gmail.com
+- 👋 Hi, I’m **Nancy**
+-  I’m currently learning and building projects using MERN 👩‍💻
+-   How to reach me:- nancy14kapoor2006@gmail.com 📧
 
 
 <!---
