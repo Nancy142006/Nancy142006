@@ -1,11 +1,12 @@
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTczdm41dmVlMTFtYWh1dXBxOHNxaTBiZTBldmpyeDhjdnhzM2hxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="120" height="120" alt="Cute Penguin GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJlZDJlN3lkbWoxc2p6Mm1paWdkcWVsOXNzZDg3NnVvMmc3OGoxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AFrDhBchxdaM4ASfiO/giphy.gif" width="280" height="280" alt="Cute Animated GIF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AB3C&center=true&vCenter=true&width=950&lines=Hi!+I'm+Nancy;Breaking+code+and+breaking+fast,+but+never+breaking+my+curiosity." alt="Nancy's Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=F7AB3C&center=true&width=1000&lines=Hi!+I'm+Nancy,;Breaking+code+and+breaking+fast,+but+never+breaking+my+curiosity." alt="Typing SVG" />
 </p>
+
 
 
 
