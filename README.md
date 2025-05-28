@@ -1,11 +1,15 @@
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJlZDJlN3lkbWoxc2p6Mm1paWdkcWVsOXNzZDg3NnVvMmc3OGoxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AFrDhBchxdaM4ASfiO/giphy.gif" width="280" height="280" alt="Cute Animated GIF" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJlZDJlN3lkbWoxc2p6Mm1paWdkcWVsOXNzZDg3NnVvMmc3OGoxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AFrDhBchxdaM4ASfiO/giphy.gif" width="360" height="310" alt="Cute Animated GIF" />
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=F7AB3C&center=true&width=1000&lines=Hi!+I'm+Nancy,;Breaking+code+and+breaking+fast,+but+never+breaking+my+curiosity." alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=F7AB3C&center=true&width=1000&lines=Hi!+I'm+Nancy,;Breaking+code+and+breaking+fast,+but+never+breaking+my+curiosity." alt="Typing SVG" />
-</p>
 
 
 
