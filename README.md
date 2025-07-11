@@ -18,7 +18,7 @@
 <p align="center">
   🎓 Currently pursuing <b>Bachelor's in Computer Applications (BCA)</b> and working as an <b>Intern</b> gaining real-world experience.<br>
   💻 Experienced with the <b>MERN stack</b> and tools like <b>GitHub</b> & <b>Postman</b>.<br>
-  🐍 Focusing on <b>Python</b> and <b>Django</b> for backend development.<br>
+<!--   🐍 Focusing on <b>Python</b> and <b>Django</b> for backend development.<br> -->
   🛠️ Building a <b>Study Planner</b> app to help students manage tasks.<br>
   🌟 Passionate about exploring new things: cooking, hiking, and more!
 </p>
@@ -35,11 +35,11 @@
 
 ---
 
-## 🎯 Current Learning Goals
+<!--## 🎯 Current Learning Goals
 
 - Mastering Python fundamentals  
 - Building Django projects from scratch  
-- Improving problem-solving and algorithmic thinking  
+- Improving problem-solving and algorithmic thinking -->
 
 ---
 
@@ -58,8 +58,8 @@
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<!--   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
