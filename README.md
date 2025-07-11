@@ -9,7 +9,7 @@
 
 <p align="center">
   <img alt="BCA Student" src="https://img.shields.io/badge/Student-BCA-blue" />
-  <img alt="Learning Python" src="https://img.shields.io/badge/Learning-Python-yellow" />
+<!--   <img alt="Learning Python" src="https://img.shields.io/badge/Learning-Python-yellow" /> -->
   <img alt="Intern" src="https://img.shields.io/badge/Role-Intern-informational" />
 </p>
 
